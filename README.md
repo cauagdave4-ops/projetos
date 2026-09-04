@@ -1,1 +1,1 @@
-consegui fazer minha primeira calculadora de IMC em python com 5 dias que comecei a estudar em casa vendo videos, o que acharam?
+comecei aprender python dia 30/08/2026, pretendo compartilhar tudo que vou apredendo. 
